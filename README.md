@@ -2,3 +2,4 @@
 
 - Hello I have added a line in the file to push into github.
 - Hello this line is edited in github and require to pull in to our local machine.
+- Hello this line is added to fetch & then pull into our local machine.
